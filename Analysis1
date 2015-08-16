@@ -2,7 +2,7 @@
 
 ## My first code.
 
-'''{r}
+'''{r , echo=FALSE}
 summary(cars)
 '''
 
