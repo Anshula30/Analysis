@@ -1,0 +1,9 @@
+# Cars
+
+## My first code.
+
+'''{r}
+summary(cars)
+'''
+
+This is summay of cars
